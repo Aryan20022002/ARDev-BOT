@@ -1,0 +1,19 @@
+{
+  "name": "ardev-bot",
+  "version": "1.0.0",
+  "description": "This BOT's here to fire up some music!",
+  "main": "bot.js",
+  "author": "AR Developers",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "discord.js": "^11.4.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "winston": "^3.1.0",
+    "youtube-info": "^1.3.2",
+    "ytdl-core": "^0.28.0"
+  }
+}
